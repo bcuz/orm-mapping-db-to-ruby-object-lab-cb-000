@@ -94,7 +94,6 @@ class Student
       SELECT *
       FROM students
       WHERE grade = ?
-      LIMIT 1
     SQL
   end
 
