@@ -24,6 +24,7 @@ class Student
     SQL
 
     
+
   end
 
   def self.find_by_name(name)
